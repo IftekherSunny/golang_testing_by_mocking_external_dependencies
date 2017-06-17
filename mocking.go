@@ -1,4 +1,4 @@
-package golang_testing_by_mocking_external_dependencies
+package example
 
 import "strconv"
 
